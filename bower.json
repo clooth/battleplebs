@@ -1,0 +1,28 @@
+{
+  "name": "collar-io-client",
+  "description": "collar-io frontend client",
+  "main": "",
+  "authors": [
+    "Nico Hämäläinen <nico@sizeof.io>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "collar.io",
+    "game",
+    "kiwi",
+    "client"
+  ],
+  "homepage": "https://github.com/collar-io/collar-io-client",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Kiwi.js": "kiwijs#^1.2.1"
+  }
+}
