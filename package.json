@@ -1,10 +1,10 @@
 {
-  "name": "collar-io-client",
+  "name": "battleplebs",
   "version": "0.0.1",
-  "description": "collar-io frontend client",
+  "description": "battleplebs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/collar-io/collar-io-client.git"
+    "url": "git+https://github.com/clooth/battleplebs.git"
   },
   "scripts": {
     "watch": "grunt",
@@ -12,17 +12,16 @@
     "build-dev": "grunt build-dev"
   },
   "keywords": [
-    "collar.io",
+    "battleplebs",
     "game",
-    "kiwi",
-    "client"
+    "kiwi"
   ],
   "author": "Nico Hämäläinen <nico@sizeof.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/collar-io/collar-io-client/issues"
+    "url": "https://github.com/clooth/battleplebs/issues"
   },
-  "homepage": "https://github.com/collar-io/collar-io-client#readme",
+  "homepage": "https://github.com/clooth/battleplebs#readme",
   "dependencies": {
     "typescript": "^1.7.5"
   },

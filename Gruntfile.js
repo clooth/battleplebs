@@ -1,7 +1,7 @@
 // collar.io-client
 const Paths = {
-  Build: 'dist/collar.io.js',
-  MinifiedBuild: 'dist/collar.io.min.js',
+  Build: 'dist/battleplebs.js',
+  MinifiedBuild: 'dist/battleplebs.min.js',
   SourceIndex: './index.ts',
   SourceFiles: './src/**/*.ts'
 };
